@@ -1,0 +1,148 @@
+{
+  "periods": [
+    {
+      "id": "-500",
+      "name": "Antik Çağ",
+      "description": "Antik Çağ, yaklaşık olarak MÖ 3000'lerden MS 500'lere kadar süren tarihsel dönemdir. Bu dönemde Mezopotamya, Mısır, Yunan ve Roma medeniyetleri gibi büyük uygarlıklar gelişmiştir. Yazının icadı, tarım devrimleri, şehir devletlerinin kurulması ve ilk büyük imparatorlukların yükselişi bu dönemde gerçekleşmiştir.",
+      "key_events": [
+        "Yazının icadı (MÖ 3200)",
+        "Mısır Piramitlerinin inşası (MÖ 2500)",
+        "Yunan Şehir Devletlerinin yükselişi (MÖ 800-500)",
+        "Pers İmparatorluğu'nun kurulması (MÖ 550)",
+        "Roma Cumhuriyeti'nin kurulması (MÖ 509)",
+        "İskender'in fetihleri (MÖ 336-323)",
+        "Roma İmparatorluğu'nun kurulması (MÖ 27)"
+      ],
+      "major_empires": [
+        {
+          "name": "Pers İmparatorluğu",
+          "description": "MÖ 550-330 yılları arasında hüküm süren, Anadolu'dan Hindistan'a kadar uzanan geniş bir coğrafyaya hakim olan imparatorluk.",
+          "color": "#d88c9a"
+        },
+        {
+          "name": "Roma Cumhuriyeti",
+          "description": "MÖ 509-27 yılları arasında İtalya'dan başlayarak Akdeniz havzasına yayılan güçlü bir devlet yapısı.",
+          "color": "#f2d0a9"
+        }
+      ]
+    },
+    {
+      "id": "1000",
+      "name": "Orta Çağ",
+      "description": "Orta Çağ, yaklaşık olarak 5. yüzyıldan 15. yüzyıla kadar süren dönemdir. Batı Roma İmparatorluğu'nun çöküşü ile başlayıp, Rönesans ile sona ermiştir. Bu dönemde feodalizm, Hristiyanlığın yayılması, İslam'ın doğuşu ve yayılması, Haçlı Seferleri ve büyük göçler gibi önemli olaylar yaşanmıştır.",
+      "key_events": [
+        "Batı Roma İmparatorluğu'nun çöküşü (476)",
+        "İslam'ın doğuşu (610)",
+        "Emevi Hanedanlığı'nın kurulması (661)",
+        "Şarlman'ın taç giymesi (800)",
+        "Büyük Doğu-Batı Kilise Ayrılığı (1054)",
+        "Haçlı Seferleri (1095-1291)",
+        "Magna Carta'nın imzalanması (1215)",
+        "Moğol İstilası (13. yüzyıl)",
+        "Kara Veba (1347-1351)"
+      ],
+      "major_empires": [
+        {
+          "name": "Bizans İmparatorluğu",
+          "description": "395-1453 yılları arasında Doğu Roma İmparatorluğu olarak da bilinen, Balkanlar, Anadolu ve Ortadoğu'da hüküm süren imparatorluk.",
+          "color": "#5e548e"
+        },
+        {
+          "name": "Abbasi Halifeliği",
+          "description": "750-1258 yılları arasında İslam dünyasını yöneten, bilim ve kültürde altın çağını yaşayan halifelik.",
+          "color": "#90be6d"
+        },
+        {
+          "name": "Endülüs Emevileri",
+          "description": "756-1031 yılları arasında İber Yarımadası'nda hüküm süren, bilim ve kültürde önemli ilerlemeler kaydeden İslam devleti.",
+          "color": "#f9c74f"
+        },
+        {
+          "name": "Kutsal Roma İmparatorluğu",
+          "description": "962-1806 yılları arasında Orta Avrupa'da hüküm süren, çok sayıda prenslik ve krallıktan oluşan federal yapı.",
+          "color": "#277da1"
+        }
+      ]
+    },
+    {
+      "id": "1500",
+      "name": "Yeni Çağ",
+      "description": "Yeni Çağ, 15. yüzyıldan 18. yüzyıla kadar süren dönemdir. İstanbul'un fethi, Amerika'nın keşfi, Rönesans, Reform, Aydınlanma Çağı ve sanayi devriminin başlangıcı gibi önemli olaylar bu dönemde gerçekleşmiştir. Coğrafi keşifler, sömürgecilik ve mutlak monarşilerin yükselişi bu döneme damgasını vurmuştur.",
+      "key_events": [
+        "İstanbul'un fethi (1453)",
+        "Amerika'nın keşfi (1492)",
+        "Rönesans (14-17. yüzyıl)",
+        "Reform hareketleri (16. yüzyıl)",
+        "Otuz Yıl Savaşları (1618-1648)",
+        "Westphalia Barışı (1648)",
+        "Aydınlanma Çağı (17-18. yüzyıl)",
+        "Amerikan Bağımsızlık Savaşı (1775-1783)",
+        "Fransız Devrimi (1789)"
+      ],
+      "major_empires": [
+        {
+          "name": "Habsburg İmparatorluğu",
+          "description": "16-20. yüzyıllar arasında Avrupa'nın büyük bölümünde hüküm süren hanedanlık imparatorluğu.",
+          "color": "#f94144"
+        },
+        {
+          "name": "Osmanlı İmparatorluğu",
+          "description": "1299-1922 yılları arasında Anadolu, Balkanlar, Ortadoğu ve Kuzey Afrika'da hüküm süren çok uluslu imparatorluk.",
+          "color": "#577590"
+        },
+        {
+          "name": "İngiltere",
+          "description": "16. yüzyıldan itibaren denizaşırı sömürgeleriyle güçlenen ve dünya ticaretinde önemli rol oynayan krallık.",
+          "color": "#43aa8b"
+        },
+        {
+          "name": "Fransa",
+          "description": "16-18. yüzyıllar arasında Avrupa'nın en güçlü devletlerinden biri olan, mutlak monarşi ile yönetilen krallık.",
+          "color": "#f8961e"
+        }
+      ]
+    },
+    {
+      "id": "1900",
+      "name": "Modern Çağ",
+      "description": "Modern Çağ, 19. yüzyıldan günümüze kadar süren dönemdir. Sanayi Devrimi, emperyalizm, dünya savaşları, soğuk savaş, küreselleşme ve teknolojik devrimler bu döneme damgasını vurmuştur. Ulus devletlerin yükselişi, demokratikleşme süreçleri ve insan hakları kavramının gelişmesi bu dönemde gerçekleşmiştir.",
+      "key_events": [
+        "Sanayi Devrimi (18-19. yüzyıl)",
+        "Emperyalizm ve sömürgecilik (19. yüzyıl)",
+        "Birinci Dünya Savaşı (1914-1918)",
+        "Rus Devrimi (1917)",
+        "Büyük Buhran (1929)",
+        "İkinci Dünya Savaşı (1939-1945)",
+        "Birleşmiş Milletler'in kurulması (1945)",
+        "Soğuk Savaş (1947-1991)",
+        "Dekolonizasyon süreci (1945-1975)",
+        "Berlin Duvarı'nın yıkılması (1989)",
+        "Sovyetler Birliği'nin dağılması (1991)",
+        "11 Eylül saldırıları (2001)",
+        "Küresel ekonomik kriz (2008)"
+      ],
+      "major_empires": [
+        {
+          "name": "Britanya İmparatorluğu",
+          "description": "19. yüzyılda dünyanın en büyük imparatorluğu olan, 'üzerinde güneş batmayan imparatorluk' olarak anılan sömürge imparatorluğu.",
+          "color": "#f94144"
+        },
+        {
+          "name": "Fransız Sömürgeleri",
+          "description": "19-20. yüzyıllarda Afrika ve Asya'da geniş topraklara sahip olan Fransa'nın sömürge imparatorluğu.",
+          "color": "#577590"
+        },
+        {
+          "name": "Alman İmparatorluğu",
+          "description": "1871-1918 yılları arasında Avrupa'nın merkezinde yer alan, endüstriyel ve askeri açıdan güçlü imparatorluk.",
+          "color": "#43aa8b"
+        },
+        {
+          "name": "Rus İmparatorluğu",
+          "description": "1721-1917 yılları arasında Doğu Avrupa ve Kuzey Asya'da hüküm süren, çok uluslu imparatorluk.",
+          "color": "#f8961e"
+        }
+      ]
+    }
+  ]
+}
